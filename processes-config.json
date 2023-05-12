@@ -1,0 +1,8 @@
+{
+  "Processes": [
+    "dplayer", //云播放器
+    "foxmail", //foxmain
+    "chrome", //谷歌
+    "QQMusic"
+  ]
+}
