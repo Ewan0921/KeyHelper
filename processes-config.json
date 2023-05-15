@@ -1,8 +1,9 @@
 {
   "Processes": [
-    "dplayer", //云播放器
-    "foxmail", //foxmain
-    "chrome", //谷歌
-    "QQMusic"
+    "Dplayer", //大黄蜂云播放器
+    "Foxmail", //foxmain
+    "Chrome", //谷歌
+    "QQMusic",//QQ音乐
+    "WeChatAppEx"//微信小程序
   ]
 }
