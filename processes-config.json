@@ -3,7 +3,9 @@
     "Dplayer", //大黄蜂云播放器
     "Foxmail", //foxmain
     "Chrome", //谷歌
-    "QQMusic",//QQ音乐
-    "WeChatAppEx"//微信小程序
+    "QQMusic", //QQ音乐
+    "WeChatAppEx", //微信小程序
+    "WeChatBrowser",//微信浏览器
+    "BaiduNetDisk"//百度云
   ]
 }

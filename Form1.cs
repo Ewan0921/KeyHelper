@@ -92,6 +92,7 @@ namespace KeyHelper
                         if (ConfigHelper.GetProcesses().Any(x => item.ProcessName.ToUpper().Contains(x.ToUpper())))
                         {
                             item.Kill();
+
                         }
                     }
                 }
